@@ -61,7 +61,5 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=MaheshDoiphode&color=brightgreen&style=flat-square" alt="Profile Views">
   <br>
-  Made with ❤️ by Mahesh Doiphode
+  Made with ❤️ by Mahesh
 </div>
-
-```
