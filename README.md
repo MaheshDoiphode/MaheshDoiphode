@@ -4,11 +4,10 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu&pause=1000&width=435&lines=Full+Stack+Developer;Java+%26+Spring+Boot+Expert;Microservices+Architect;DevOps+Enthusiast)](https://git.io/typing-svg)
 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/maheshdoiphode)
+[![GitHub](https://img.shields.io/github/followers/MaheshDoiphode?label=follow&style=flat-square&logo=github&logoColor=white)](https://github.com/MaheshDoiphode)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-success?style=flat-square&logo=safari)](https://maheshdoiphode.github.io/portfolio/)
 </div>
-
----
-
-![](https://komarev.com/ghpvc/?username=MaheshDoiphode&color=fb4362)
 
 <h3>When I code, I rely on</h3>
 <p>
@@ -50,3 +49,19 @@
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/MaheshDoiphode/MaheshDoiphode/blob/output/github-snake.svg" />
   <img alt="github-snake" src="https://github.com/MaheshDoiphode/MaheshDoiphode/blob/output/github-snake.svg" />
 </picture>
+
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/maheshdoiphode)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MaheshDoiphode)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge&logo=safari)](https://maheshdoiphode.github.io/portfolio/)
+
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=MaheshDoiphode&color=brightgreen&style=flat-square" alt="Profile Views">
+  <br>
+  Made with ❤️ by Mahesh Doiphode
+</div>
+
+```
