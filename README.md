@@ -1,4 +1,10 @@
-### 👋 Hi there, I'm Mahesh Doiphode!
+# <div align="center">👋 Hi there, I'm Mahesh Doiphode!</div>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu&pause=1000&width=435&lines=Full+Stack+Developer;Java+%26+Spring+Boot+Expert;Microservices+Architect;DevOps+Enthusiast)](https://git.io/typing-svg)
+
+</div>
 
 ---
 
@@ -29,10 +35,18 @@
   <img alt="REST API" src="https://img.shields.io/badge/-REST_API-009688?style=flat-square&logo=api&logoColor=white" />
 </p>
 
-<h3>My GitHub contributions summary</h3>
+### 📊 GitHub Stats
+<div align="center">
+  
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MaheshDoiphode&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MaheshDoiphode&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MaheshDoiphode&theme=tokyonight)
+[![GitHub Streak](https://streak-stats.demolab.com?user=MaheshDoiphode&theme=tokyonight)](https://git.io/streak-stats)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MaheshDoiphode&theme=dark&ring=fb4362&file=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true)](https://git.io/streak-stats)
+</div>
 
-![Mahesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaheshDoiphode&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MaheshDoiphode&layout=compact&theme=dark&title_color=fb4362&hide_border=true)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/MaheshDoiphode/MaheshDoiphode/blob/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/MaheshDoiphode/MaheshDoiphode/blob/output/github-snake.svg" />
+  <img alt="github-snake" src="https://github.com/MaheshDoiphode/MaheshDoiphode/blob/output/github-snake.svg" />
+</picture>
