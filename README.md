@@ -40,7 +40,7 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MaheshDoiphode&theme=tokyonight)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MaheshDoiphode&theme=tokyonight)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MaheshDoiphode&theme=tokyonight)
-[![GitHub Streak](https://streak-stats.demolab.com?user=MaheshDoiphode&theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=MaheshDoiphode&theme=tokyonight)](https://github.com/MaheshDoiphode)
 
 </div>
 
